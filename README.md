@@ -25,3 +25,5 @@ recoverdm -t type -i file/devicein -o fileout [-l list] [-n retries] [-s speed]
 For MacOS X users, add `-lcrypto` to `LDFLAGS` in Makefile.
 
 After you have created an image of the damaged media, you might be able to write it to a new disk/cd/etc. but in some cases the directory-information (and such) is so much damaged that you're not able to mount it. In that case the [findfile](http://web.archive.org/web/20150922195525/http://www.vanheusden.com/findfile/) utility might be helpful.
+
+This tool has been retrieved from the unavailable https://www.vanheusden.com website.
